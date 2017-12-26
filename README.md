@@ -27,9 +27,9 @@ information regarding the upm sensor and actuator library APIs.
 App Overview
 ------------
 
-This blank template creates a project folder that contains the minimum files
+This project folder contains files
 needed for an Intel XDK Node.js IoT app. The development process assumes that
-your target device is running a compatible version of
+the target device is running a compatible version of
 [Node.js](http://nodejs.org) and is accessible to the Intel XDK via a network
 connection.
 
@@ -62,10 +62,8 @@ Tested IoT Node.js Platforms
 > and the [Intel Product Specifications](http://ark.intel.com/) search tool
 > for detailed hardware specifications and support.
 
-This blank template can be used with any IoT [Node.js](http://nodejs.org)
-development platform that supports Linux and Node.js. Be sure your IoT device
-includes the appropriate sensor hardware needed by your app. See this
-[device software prerequisites][1] page for help configuring the software on
-your IoT device so it can be used with the Intel XDK.
+This template can be used with any IoT [Node.js](http://nodejs.org)
+development platform that supports Linux and Node.js. The IoT device
+includes the appropriate sensor hardware needed by your app. 
 
 [1]: https://software.intel.com/en-us/xdk/docs/target-device-software-prereqs
