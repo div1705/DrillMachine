@@ -4,15 +4,13 @@
 
 
 # ReadMe
-Intel® XDK IoT Blank Node.js\* App Template
-===========================================
+Intel® XDK IoT Blank Node.js\* App 
+===================================
 
 See [LICENSE.md](LICENSE.md) for license terms and conditions.
 
-This sample application is distributed as part of the
-[Intel® XDK](http://xdk.intel.com). It can also be downloaded
-or cloned directly from its git repo on the
-[public Intel XDK GitHub\* site](https://github.com/gomobile).
+This application is distributed as part of the
+[Intel® XDK](http://xdk.intel.com).
 
 For help getting started developing applications with the
 Intel XDK, please start with
