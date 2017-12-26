@@ -1,0 +1,2 @@
+# DrillMachine
+ This project involved configuring an Edison board with two sensors, Grove 6 Axis Accelerometer And Compass V2.0 and an LED module. They were to receive data from a 6 axis accelerometer and pushed onto a cloud node red application running on IBM Bluemix. The Cloud Node-Red app was further used to create a dashboard containing a Gauge which showed values to further figure out angles that work perfectly for the Drill Machine. This code was compiled on an integrated development environment, Intel XDK.
